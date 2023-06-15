@@ -11,7 +11,7 @@ function Hero() {
             </h1>
 
 <br/>
-            <p className="lato text-lg font-normal">We are a small and growing consulting firm with big ideas.</p>
+            <p className="lato text-lg font-normal">We are a small and growing community with big ideas.</p>
             <br/>
 
             <div>
