@@ -41,7 +41,7 @@ background-repeat: no-repeat;
 
 @media (min-width: 1524px)
  {
-  .hero-main{ min-height: 85vh;}
+  .hero-main{ min-height: 75vh;}
   .hero-main h1{
     font-size: 98px;
     width: 100%;
