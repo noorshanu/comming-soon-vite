@@ -15,7 +15,7 @@ function Hero() {
             <br/>
 
             <div>
-                <button className="btn px-8 py-2 my-6 text-sm font-[700] lato">Learn More &nbsp; →</button>
+                <button className="btn px-8 py-2 my-6 text-sm font-[700] lato">Join Now &nbsp; →</button>
             </div>
             </div>
 
