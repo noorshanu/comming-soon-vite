@@ -34,3 +34,22 @@ background-repeat: no-repeat;
   font-size: 16px;
   padding: 5px;
 }
+.main-logo{
+  height: 80px;
+  width: auto;
+}
+
+@media (min-width: 1524px)
+ {
+  .hero-main{ min-height: 85vh;}
+  .hero-main h1{
+    font-size: 98px;
+    width: 100%;
+  }
+  .hero-main p{
+    font-size: 28px;
+  }
+  .con{
+    padding-top: 14rem;
+  }
+}

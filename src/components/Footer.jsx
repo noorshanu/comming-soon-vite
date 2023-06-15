@@ -1,6 +1,6 @@
 import {BsTwitter
 ,BsLinkedin,
-BsInstagram
+BsTelegram
 } from 'react-icons/bs'
 
 function Footer() {
@@ -11,7 +11,7 @@ function Footer() {
             <div className='flex gap-8 items-center  text-center justify-center sm:justify-end'>
                 <a href="/" className='border-1 rounded-full social'> <BsTwitter/></a>
                 <a href="/" className='border-1 rounded-full social'> <BsLinkedin/></a>
-                <a href="/" className='border-1 rounded-full social'> <BsInstagram/> </a>
+                <a href="https://t.me/BUIDLAE" target='_blank' rel="noreferrer" className='border-1 rounded-full social'> <BsTelegram/> </a>
 
 
             </div>
