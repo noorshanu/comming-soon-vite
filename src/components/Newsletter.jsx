@@ -8,12 +8,12 @@ function Newsletter() {
             <h3 className='frank font-[500] text-[30px] '>Subscribe</h3>
             <input type="text" placeholder='Email' className='font-[#474747] text-base email-input py-[16px] px-2' />
             <div>
-            <button className='btn px-8 py-4 my-6 text-sm font-[700] lato w-[80%] sm:w-[113%]'>Sign Up</button>
+            <button className='btn px-8 py-4 my-6 text-sm font-[700] lato w-[80%] sm:w-[113%]'>Join Now</button>
 
             </div>
         </div>
         <div className='mx-auto text-center text-lg font-[400] lato'>
-        Sign up for our monthly newsletter of secrets for success.
+        Sign up for our monthly newsletter of new ideas and knowledges.
 
 
         </div>
