@@ -7,7 +7,7 @@ function Hero() {
             <h3 className="d text-[22px] lato font-bold uppercase py-8 flex justify-center items-center gap-2"> <img src={Logo} alt="" className='main-logo' /> BUIDL</h3>
             <div className="c py-12 text-center mx-auto con">
             <h1 className="d text-5xl sm:text-7xl frank font-[500] max-w-full w-[800px] mx-auto">
-            Great things coming soon.
+            Great things coming soon...
             </h1>
 
 <br/>
